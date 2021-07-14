@@ -1,0 +1,15 @@
+oled.c:20:6:WriteCmd	32	static
+oled.c:29:6:OLED_WR_CMD	32	static
+oled.c:34:6:OLED_WR_DATA	32	static
+oled.c:39:6:OLED_Init	8	static
+oled.c:46:6:OLED_Clear	16	static
+oled.c:59:6:OLED_Display_On	8	static
+oled.c:66:6:OLED_Display_Off	8	static
+oled.c:72:6:OLED_Set_Pos	16	static
+oled.c:79:6:OLED_On	16	static
+oled.c:91:14:oled_pow	24	static
+oled.c:103:6:OLED_ShowNum	24	static
+oled.c:127:6:OLED_ShowChar	32	static
+oled.c:150:6:OLED_ShowString	24	static
+oled.c:162:6:OLED_ShowCHinese	24	static
+oled.c:178:6:OLED_DrawBMP	32	static

@@ -1,0 +1,6 @@
+control.c:40:6:HAL_TIM_PeriodElapsedCallback	16	static
+control.c:74:6:USER_UART_IRQHandler	24	static
+control.c:103:5:DistanceX_FeedbackControl	16	static
+control.c:120:5:DistanceY_FeedbackControl	16	static
+control.c:138:6:AngleX_Limited	4	static
+control.c:146:6:AngleY_Limited	4	static

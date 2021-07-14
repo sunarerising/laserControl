@@ -1,0 +1,2 @@
+motor.c:24:6:moveServosByArray	24	static
+motor.c:49:6:servoRotate	16	static
